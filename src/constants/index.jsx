@@ -62,44 +62,6 @@ export const tools =[
   },
 
 ]
-export const slides = [
-  {
-    name: "Marie Poirot",
-    company: "Bigapp",
-    quote:
-      "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
-    
-  },
-  {
-    name: "Marie Poirot",
-    company: "Bigapp",
-    quote:
-      "Scelerisque auctor dolor diam tortor, fames faucibus non interdum nunc. Ultrices nibh sapien elit gravida ac, rutrum molestie adipiscing lacinia.",
-    
-  },
-  {
-    name: "Marie Poirot",
-    company: "Bigapp",
-    quote:
-      "Enim sagittis, sit porttitor morbi lobortis amet, libero adipiscing auctor. Malesuada tristique libero, id netus tincidunt. Egestas ac arcu amet nisl quis est ...",
-   
-  },
-  {
-    name: "Marie Poirot",
-    company: "Bigapp",
-    quote:
-      "Id urna, nisl, ut quam. Diam suspendisse fringilla quam arcu mattis est velit in. Nibh in purus sit convallis phasellus ut. At vel erat ultricies commodo. Neque suspendisse a habitasse commodo.",
-   
-  },
-  {
-    name: "Marie Poirot",
-    company: "Bigap",
-    quote:
-      "Aliquet sed nulla tincidunt pulvinar sed fames sit facilisis dictumst. Ornare faucibus quis velit fringilla aliquam ultricies. Malesuada ut aliquam at ac est nisi, interdum etiam dignissim. Sed ut vestibulum eget purus ornare. Risus elit et fringilla habitant ut facilisi..",
-   
-  },
-];
-
 export const items = [
   {
     title: 'Sem augue tempus',
